@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yk-justbeaver.github.io/al-folio/sitemap.xml
+Sitemap: https://yh-justbeaver.github.io/sitemap.xml
